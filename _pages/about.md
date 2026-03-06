@@ -9,9 +9,7 @@ redirect_from:
 ---
 
  
-
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
-
+Hi！我是何俊豪
 Github: https://github.com/socratesclub
 
 ## People
